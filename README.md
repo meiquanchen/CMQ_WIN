@@ -6,11 +6,11 @@
 
 我认为，在某C9院校踏踏实实做科研，是一种非常愚蠢的行为。因此，我将要向大家介绍我的宝贵经验，即如何通过学术作假和学术不端，以极低的时间成本骗到学位。具体而言，首先我通过抄袭、洗稿两篇他人发表在NeurIPS-2023和AAAI-2024上的会议论文，我凑出了毕业论文中的两个主要创新点，并且通过半编造半抄袭的方式造出了所有的实验数据，分别对应毕业论文的第3章和第4章；其次我通过抄袭他人的综述性论文，我凑出了毕业论文的研究背景部分，对应毕业论文的第2章。
 
-
 <div align="center">
-  <img src="./figures/cmq_with_text.png" alt="陈m全肖像照 " />
-  <figcaption style="font-style:; margin-top: 8px;">陈m全抽象照片（M78星云虚拟照片，不对应于任何地球人） </figcaption>
-</div> 
+  <img src="./figures/cmq_with_text.png" alt="描述" style="display: block; margin: 0 auto;" />
+  <p style="text-align: center; font-style: italic; margin-top: 8px;">陈m全抽象照片（M78星云虚拟照片，不对应于任何地球人）</p>
+</div>
+
 
 # 什么，你说法律？我都想笑
 
